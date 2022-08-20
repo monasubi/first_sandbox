@@ -1,2 +1,2 @@
 # first_sandbox
-place to test git 
+place to learn git 
